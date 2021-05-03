@@ -2,6 +2,7 @@
 <rss version="2.0">
 
 <channel>
+  <atom:link href="https://noyaomarald.github.io/personaxesRSS/" rel="self" type="application/rss+xml"/>
   <title>PersonaxesRSS</title>
   <link>https://noyaomarald.github.io/personaxesRSS/</link>
   <description>Personajes de cómics y animación</description>
