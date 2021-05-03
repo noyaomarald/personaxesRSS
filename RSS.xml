@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 
+<channel>
+  <title>PersonaxeRSS</title>
+  <link>https://noyaomarald.github.io/personaxesRSS/</link>
+  <description>Personajes de cómics y animación</description>
+  <image>
+    <title>PersonaxesRSS</title>
+    <url>https://i.pinimg.com/originals/d5/07/56/d50756861ebfb218a3a75bb428a5ff71.jpg</url>
+    <link>https://noyaomarald.github.io/personaxesRSS/</link>
+  </image>
+  <item>
+    <title>Asterix</title>
+    <link>https://noyaomarald.github.io/personaxesRSS/asterix.html</link>
+    <description>A</description>
+  </item>
+  <item>
+    <title>Doraemon</title>
+    <link>https://noyaomarald.github.io/personaxesRSS/doraemon.html</link>
+    <description>Doraemon el gato cósmico</description>
+  </item>
+  <item>
+    <title>Popeye</title>
+    <link>https://noyaomarald.github.io/personaxesRSS/popeye.html</link>
+    <description>Popeye el marino</description>
+  </item>
+</channel>
+</rss>
